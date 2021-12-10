@@ -22,9 +22,6 @@ def createDivisorList(limit, primeList):
     return divisorList
             
 
-#def checkIfPrime(number, primeList):
-
-
 def sieve(limit):
 
     
