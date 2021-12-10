@@ -52,12 +52,6 @@ def sieve(limit):
     return primeList
         
 
-        
-        
-            
-
-       
-
 def main():
     print("this program will output all prime numbers up to the number entered below:")
     limit = input()
